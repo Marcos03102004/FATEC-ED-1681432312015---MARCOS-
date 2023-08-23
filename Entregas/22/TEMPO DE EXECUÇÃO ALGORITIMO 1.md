@@ -1,6 +1,6 @@
-# CALCULANDO O TEMPO DE EXECUÇÃO - Algoritmo 1
+# CALCULANDO O TEMPO DE EXECUÇÃO - ALGORITIMO 1
 
-Considerando que x esta em A[1..n]
+CONSIDERE QUE X ESTA EM A[1..n]
 
 ```http
 Function BuscaLinerar(A,n,x){
@@ -15,16 +15,16 @@ Devolva-1
 
 ## CONTANDO AS INSTRUÇÕES POR LINHA
 ```http
-Linha 1: executa 1 vez
-Linha 2: executa Px vezes
-Linha 3: executa Px vezes
-Linha 4: executa 1 vez
-Linha 5: Px - 1
+    LINHA 1: executa 1 vez
+    LINHA 2: executa Px vezes
+    LINHA 3: executa Px vezes
+    LINHA 4: executa 1 vez
+    LINHA 5: Px - 1
 ```
 
 ## TEMPO TOTAL, 1ª E ULTIMA POSIÇÃO
 
-Tempo total:
+TEMPO TOTAL:
 ```http
 Tble(n) = T + Tpx + 2Tpx + 2T(Px - 1) + T
 = 2T + 3Tpx + 2Tpx - 2T
