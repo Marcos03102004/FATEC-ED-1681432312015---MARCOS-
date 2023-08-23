@@ -1,6 +1,6 @@
 # CALCULANDO TEMPO DE EXECUÇÃO - ALGORITIMO 2
 
-Considerando que x esta em A[1..n]
+CONSIDERANDO QUE X ESTA EM A[1..n]
 
 ```http
 Function BuscaLinerarEmOrdem(A,n,x)
