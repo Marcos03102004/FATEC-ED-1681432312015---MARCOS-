@@ -1,4 +1,4 @@
-<span style="color: red;"> CALCULANDO O TEMPO DE EXECUÇÃO - ALGORITIMO 1</span>
+ ###### CALCULANDO O TEMPO DE EXECUÇÃO - ALGORITIMO 
 
 CONSIDERE QUE X ESTA EM A[1..n]
 
